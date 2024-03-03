@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mui/material": "^5.14.15",
+    "axios": "^1.5.1",
+    "openai": "^4.14.1",
+    "react-top-loading-bar": "^2.3.1"
+  }
+}
